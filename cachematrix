@@ -1,4 +1,4 @@
-## The following function calculates the inverse of a matrix and saves it 
+## This first function calculates the inverse of a matrix and saves it 
 ## to the cache so that when the user will try to calculate the 
 ## matrix inverse again, the previously saved value will be returned instead of 
 ## repeating each time this calculation. 
